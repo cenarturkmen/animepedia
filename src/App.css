@@ -1,0 +1,14 @@
+.App {
+    text-align: center;
+  }
+
+  .App-footer {
+    background-color: white;
+    color: #282c34;
+    display: block;
+    padding: 1px;
+    margin-block-start: 1em;
+    margin-block-end: -2em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+  }
